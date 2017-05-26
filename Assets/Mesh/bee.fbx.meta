@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 7b89789eb783a1548883905d67dcac91
+timeCreated: 1479266454
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: antenna_base.L
+    100002: antenna_base.R
+    100004: antenna_mid.L
+    100006: antenna_mid.R
+    100008: antenna_top.L
+    100010: antenna_top.L_end
+    100012: antenna_top.R
+    100014: antenna_top.R_end
+    100016: Armature
+    100018: //RootNode
+    100020: bee
+    100022: Bone
+    100024: front_leg_base.L
+    100026: front_leg_base.R
+    100028: front_leg_tip.L
+    100030: front_leg_tip.L_end
+    100032: front_leg_tip.R
+    100034: front_leg_tip.R_end
+    100036: mid_leg_base.L
+    100038: mid_leg_base.R
+    100040: mid_leg_tip.L
+    100042: mid_leg_tip.L_end
+    100044: mid_leg_tip.R
+    100046: mid_leg_tip.R_end
+    100048: rear_leg_base.L
+    100050: rear_leg_base.R
+    100052: rear_leg_tip.L
+    100054: rear_leg_tip.L_end
+    100056: rear_leg_tip.R
+    100058: rear_leg_tip.R_end
+    100060: root
+    100062: wing_base.L
+    100064: wing_base.R
+    100066: wing_tip.L
+    100068: wing_tip.L_end
+    100070: wing_tip.R
+    100072: wing_tip.R_end
+    400000: antenna_base.L
+    400002: antenna_base.R
+    400004: antenna_mid.L
+    400006: antenna_mid.R
+    400008: antenna_top.L
+    400010: antenna_top.L_end
+    400012: antenna_top.R
+    400014: antenna_top.R_end
+    400016: Armature
+    400018: //RootNode
+    400020: bee
+    400022: Bone
+    400024: front_leg_base.L
+    400026: front_leg_base.R
+    400028: front_leg_tip.L
+    400030: front_leg_tip.L_end
+    400032: front_leg_tip.R
+    400034: front_leg_tip.R_end
+    400036: mid_leg_base.L
+    400038: mid_leg_base.R
+    400040: mid_leg_tip.L
+    400042: mid_leg_tip.L_end
+    400044: mid_leg_tip.R
+    400046: mid_leg_tip.R_end
+    400048: rear_leg_base.L
+    400050: rear_leg_base.R
+    400052: rear_leg_tip.L
+    400054: rear_leg_tip.L_end
+    400056: rear_leg_tip.R
+    400058: rear_leg_tip.R_end
+    400060: root
+    400062: wing_base.L
+    400064: wing_base.R
+    400066: wing_tip.L
+    400068: wing_tip.L_end
+    400070: wing_tip.R
+    400072: wing_tip.R_end
+    4300000: bee
+    7400000: Armature|flying
+    7400002: Armature|flying.001
+    9500000: //RootNode
+    13700000: bee
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|flying
+      takeName: Armature|flying
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/Bone
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.L
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.L/antenna_mid.L
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.L/antenna_mid.L/antenna_top.L
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.L/antenna_mid.L/antenna_top.L/antenna_top.L_end
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.R
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.R/antenna_mid.R
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.R/antenna_mid.R/antenna_top.R
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.R/antenna_mid.R/antenna_top.R/antenna_top.R_end
+        weight: 1
+      - path: Armature/root/front_leg_base.L
+        weight: 1
+      - path: Armature/root/front_leg_base.L/front_leg_tip.L
+        weight: 1
+      - path: Armature/root/front_leg_base.L/front_leg_tip.L/front_leg_tip.L_end
+        weight: 1
+      - path: Armature/root/front_leg_base.R
+        weight: 1
+      - path: Armature/root/front_leg_base.R/front_leg_tip.R
+        weight: 1
+      - path: Armature/root/front_leg_base.R/front_leg_tip.R/front_leg_tip.R_end
+        weight: 1
+      - path: Armature/root/mid_leg_base.L
+        weight: 1
+      - path: Armature/root/mid_leg_base.L/mid_leg_tip.L
+        weight: 1
+      - path: Armature/root/mid_leg_base.L/mid_leg_tip.L/mid_leg_tip.L_end
+        weight: 1
+      - path: Armature/root/mid_leg_base.R
+        weight: 1
+      - path: Armature/root/mid_leg_base.R/mid_leg_tip.R
+        weight: 1
+      - path: Armature/root/mid_leg_base.R/mid_leg_tip.R/mid_leg_tip.R_end
+        weight: 1
+      - path: Armature/root/rear_leg_base.L
+        weight: 1
+      - path: Armature/root/rear_leg_base.L/rear_leg_tip.L
+        weight: 1
+      - path: Armature/root/rear_leg_base.L/rear_leg_tip.L/rear_leg_tip.L_end
+        weight: 1
+      - path: Armature/root/rear_leg_base.R
+        weight: 1
+      - path: Armature/root/rear_leg_base.R/rear_leg_tip.R
+        weight: 1
+      - path: Armature/root/rear_leg_base.R/rear_leg_tip.R/rear_leg_tip.R_end
+        weight: 1
+      - path: Armature/root/wing_base.L
+        weight: 1
+      - path: Armature/root/wing_base.L/wing_tip.L
+        weight: 1
+      - path: Armature/root/wing_base.L/wing_tip.L/wing_tip.L_end
+        weight: 1
+      - path: Armature/root/wing_base.R
+        weight: 1
+      - path: Armature/root/wing_base.R/wing_tip.R
+        weight: 1
+      - path: Armature/root/wing_base.R/wing_tip.R/wing_tip.R_end
+        weight: 1
+      - path: bee
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|flying.001
+      takeName: Armature|flying.001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/Bone
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.L
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.L/antenna_mid.L
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.L/antenna_mid.L/antenna_top.L
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.L/antenna_mid.L/antenna_top.L/antenna_top.L_end
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.R
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.R/antenna_mid.R
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.R/antenna_mid.R/antenna_top.R
+        weight: 1
+      - path: Armature/root/Bone/antenna_base.R/antenna_mid.R/antenna_top.R/antenna_top.R_end
+        weight: 1
+      - path: Armature/root/front_leg_base.L
+        weight: 1
+      - path: Armature/root/front_leg_base.L/front_leg_tip.L
+        weight: 1
+      - path: Armature/root/front_leg_base.L/front_leg_tip.L/front_leg_tip.L_end
+        weight: 1
+      - path: Armature/root/front_leg_base.R
+        weight: 1
+      - path: Armature/root/front_leg_base.R/front_leg_tip.R
+        weight: 1
+      - path: Armature/root/front_leg_base.R/front_leg_tip.R/front_leg_tip.R_end
+        weight: 1
+      - path: Armature/root/mid_leg_base.L
+        weight: 1
+      - path: Armature/root/mid_leg_base.L/mid_leg_tip.L
+        weight: 1
+      - path: Armature/root/mid_leg_base.L/mid_leg_tip.L/mid_leg_tip.L_end
+        weight: 1
+      - path: Armature/root/mid_leg_base.R
+        weight: 1
+      - path: Armature/root/mid_leg_base.R/mid_leg_tip.R
+        weight: 1
+      - path: Armature/root/mid_leg_base.R/mid_leg_tip.R/mid_leg_tip.R_end
+        weight: 1
+      - path: Armature/root/rear_leg_base.L
+        weight: 1
+      - path: Armature/root/rear_leg_base.L/rear_leg_tip.L
+        weight: 1
+      - path: Armature/root/rear_leg_base.L/rear_leg_tip.L/rear_leg_tip.L_end
+        weight: 1
+      - path: Armature/root/rear_leg_base.R
+        weight: 1
+      - path: Armature/root/rear_leg_base.R/rear_leg_tip.R
+        weight: 1
+      - path: Armature/root/rear_leg_base.R/rear_leg_tip.R/rear_leg_tip.R_end
+        weight: 1
+      - path: Armature/root/wing_base.L
+        weight: 1
+      - path: Armature/root/wing_base.L/wing_tip.L
+        weight: 1
+      - path: Armature/root/wing_base.L/wing_tip.L/wing_tip.L_end
+        weight: 1
+      - path: Armature/root/wing_base.R
+        weight: 1
+      - path: Armature/root/wing_base.R/wing_tip.R
+        weight: 1
+      - path: Armature/root/wing_base.R/wing_tip.R/wing_tip.R_end
+        weight: 1
+      - path: bee
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

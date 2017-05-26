@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5503522D-D3BD-DA6F-4388-073B6E75DCA8}") = "Ajax 11-19", "Assembly-CSharp.csproj", "{EE388565-B91C-7F22-077E-0F86505B0C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE388565-B91C-7F22-077E-0F86505B0C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE388565-B91C-7F22-077E-0F86505B0C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE388565-B91C-7F22-077E-0F86505B0C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE388565-B91C-7F22-077E-0F86505B0C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

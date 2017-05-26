@@ -1,0 +1,1481 @@
+fileFormatVersion: 2
+guid: 5b1bd2acbb944ee4ea41850414572437
+timeCreated: 1478231363
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle IK.L
+    100002: ankle IK.R
+    100004: chest
+    100006: ear base.L
+    100008: ear base.R
+    100010: ear mid.L
+    100012: ear mid.R
+    100014: ear top.L
+    100016: ear top.R
+    100018: elbow.L
+    100020: elbow.R
+    100022: head
+    100024: index finger.L
+    100026: index finger.L.001
+    100028: index finger.R
+    100030: index finger.R.001
+    100032: knee.L
+    100034: knee.R
+    100036: l.thumb
+    100038: l.thumb.001
+    100040: lower arm.L
+    100042: lower arm.R
+    100044: lower foot.L
+    100046: lower foot.R
+    100048: lower leg.L
+    100050: lower leg.R
+    100052: neck
+    100054: pinky finger.L
+    100056: pinky finger.L.001
+    100058: pinky finger.R
+    100060: pinky finger.R.001
+    100062: r.thumb
+    100064: r.thumb.001
+    100066: //RootNode
+    100068: rabbit_mesh
+    100070: rabbit_root
+    100072: stomach
+    100074: upper arm.L
+    100076: upper arm.R
+    100078: upper foot.L
+    100080: upper foot.R
+    100082: upper leg.L
+    100084: upper leg.R
+    100086: wrist IK.L
+    100088: wrist IK.R
+    100090: wrist.L
+    100092: wrist.R
+    100094: ear top.L_end
+    100096: ear top.R_end
+    100098: elbow.L_end
+    100100: elbow.R_end
+    100102: index finger.L.001_end
+    100104: index finger.R.001_end
+    100106: knee.L_end
+    100108: knee.R_end
+    100110: l.thumb.001_end
+    100112: lower foot.L_end
+    100114: lower foot.R_end
+    100116: lower leg.L_end
+    100118: lower leg.R_end
+    100120: pinky finger.L.001_end
+    100122: pinky finger.R.001_end
+    100124: r.thumb.001_end
+    100126: wrist IK.L_end
+    100128: wrist IK.R_end
+    400000: ankle IK.L
+    400002: ankle IK.R
+    400004: chest
+    400006: ear base.L
+    400008: ear base.R
+    400010: ear mid.L
+    400012: ear mid.R
+    400014: ear top.L
+    400016: ear top.R
+    400018: elbow.L
+    400020: elbow.R
+    400022: head
+    400024: index finger.L
+    400026: index finger.L.001
+    400028: index finger.R
+    400030: index finger.R.001
+    400032: knee.L
+    400034: knee.R
+    400036: l.thumb
+    400038: l.thumb.001
+    400040: lower arm.L
+    400042: lower arm.R
+    400044: lower foot.L
+    400046: lower foot.R
+    400048: lower leg.L
+    400050: lower leg.R
+    400052: neck
+    400054: pinky finger.L
+    400056: pinky finger.L.001
+    400058: pinky finger.R
+    400060: pinky finger.R.001
+    400062: r.thumb
+    400064: r.thumb.001
+    400066: //RootNode
+    400068: rabbit_mesh
+    400070: rabbit_root
+    400072: stomach
+    400074: upper arm.L
+    400076: upper arm.R
+    400078: upper foot.L
+    400080: upper foot.R
+    400082: upper leg.L
+    400084: upper leg.R
+    400086: wrist IK.L
+    400088: wrist IK.R
+    400090: wrist.L
+    400092: wrist.R
+    400094: ear top.L_end
+    400096: ear top.R_end
+    400098: elbow.L_end
+    400100: elbow.R_end
+    400102: index finger.L.001_end
+    400104: index finger.R.001_end
+    400106: knee.L_end
+    400108: knee.R_end
+    400110: l.thumb.001_end
+    400112: lower foot.L_end
+    400114: lower foot.R_end
+    400116: lower leg.L_end
+    400118: lower leg.R_end
+    400120: pinky finger.L.001_end
+    400122: pinky finger.R.001_end
+    400124: r.thumb.001_end
+    400126: wrist IK.L_end
+    400128: wrist IK.R_end
+    4300000: rabbit_mesh
+    7400000: rabbit_root|falling
+    7400002: rabbit_root|flying
+    7400004: rabbit_root|hit
+    7400006: rabbit_root|idle
+    7400008: rabbit_root|jump
+    7400010: rabbit_root|run
+    7400012: rabbit_root|sprint
+    7400014: rabbit_root|wall_jump
+    7400016: rabbit_root|wall_slide
+    7400018: rabbit_mesh|run
+    9500000: //RootNode
+    13700000: rabbit_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: rabbit_root|falling
+      takeName: rabbit_root|falling
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rabbit_mesh
+        weight: 1
+      - path: rabbit_root
+        weight: 1
+      - path: rabbit_root/ankle IK.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L/lower foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R/lower foot.R
+        weight: 1
+      - path: rabbit_root/elbow.L
+        weight: 1
+      - path: rabbit_root/elbow.R
+        weight: 1
+      - path: rabbit_root/knee.L
+        weight: 1
+      - path: rabbit_root/knee.R
+        weight: 1
+      - path: rabbit_root/stomach
+        weight: 1
+      - path: rabbit_root/stomach/chest
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L/ear top.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R/ear top.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L/index
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L/pinky
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb/r.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R/index
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb/l.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R/pinky
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L/lower leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R/lower leg.R
+        weight: 1
+      - path: rabbit_root/wrist IK.L
+        weight: 1
+      - path: rabbit_root/wrist IK.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rabbit_root|flying
+      takeName: rabbit_root|flying
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rabbit_mesh
+        weight: 1
+      - path: rabbit_root
+        weight: 1
+      - path: rabbit_root/ankle IK.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L/lower foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R/lower foot.R
+        weight: 1
+      - path: rabbit_root/elbow.L
+        weight: 1
+      - path: rabbit_root/elbow.R
+        weight: 1
+      - path: rabbit_root/knee.L
+        weight: 1
+      - path: rabbit_root/knee.R
+        weight: 1
+      - path: rabbit_root/stomach
+        weight: 1
+      - path: rabbit_root/stomach/chest
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L/ear top.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R/ear top.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L/index
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L/pinky
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb/r.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R/index
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb/l.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R/pinky
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L/lower leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R/lower leg.R
+        weight: 1
+      - path: rabbit_root/wrist IK.L
+        weight: 1
+      - path: rabbit_root/wrist IK.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rabbit_root|hit
+      takeName: rabbit_root|hit
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rabbit_mesh
+        weight: 1
+      - path: rabbit_root
+        weight: 1
+      - path: rabbit_root/ankle IK.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L/lower foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R/lower foot.R
+        weight: 1
+      - path: rabbit_root/elbow.L
+        weight: 1
+      - path: rabbit_root/elbow.R
+        weight: 1
+      - path: rabbit_root/knee.L
+        weight: 1
+      - path: rabbit_root/knee.R
+        weight: 1
+      - path: rabbit_root/stomach
+        weight: 1
+      - path: rabbit_root/stomach/chest
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L/ear top.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R/ear top.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L/index
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L/pinky
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb/r.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R/index
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb/l.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R/pinky
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L/lower leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R/lower leg.R
+        weight: 1
+      - path: rabbit_root/wrist IK.L
+        weight: 1
+      - path: rabbit_root/wrist IK.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rabbit_root|idle
+      takeName: rabbit_root|idle
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rabbit_mesh
+        weight: 1
+      - path: rabbit_root
+        weight: 1
+      - path: rabbit_root/ankle IK.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L/lower foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R/lower foot.R
+        weight: 1
+      - path: rabbit_root/elbow.L
+        weight: 1
+      - path: rabbit_root/elbow.R
+        weight: 1
+      - path: rabbit_root/knee.L
+        weight: 1
+      - path: rabbit_root/knee.R
+        weight: 1
+      - path: rabbit_root/stomach
+        weight: 1
+      - path: rabbit_root/stomach/chest
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L/ear top.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R/ear top.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L/index
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L/pinky
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb/r.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R/index
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb/l.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R/pinky
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L/lower leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R/lower leg.R
+        weight: 1
+      - path: rabbit_root/wrist IK.L
+        weight: 1
+      - path: rabbit_root/wrist IK.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rabbit_root|jump
+      takeName: rabbit_root|jump
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: NewEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rabbit_mesh
+        weight: 1
+      - path: rabbit_root
+        weight: 1
+      - path: rabbit_root/ankle IK.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L/lower foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R/lower foot.R
+        weight: 1
+      - path: rabbit_root/elbow.L
+        weight: 1
+      - path: rabbit_root/elbow.R
+        weight: 1
+      - path: rabbit_root/knee.L
+        weight: 1
+      - path: rabbit_root/knee.R
+        weight: 1
+      - path: rabbit_root/stomach
+        weight: 1
+      - path: rabbit_root/stomach/chest
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L/ear top.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R/ear top.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L/index
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L/pinky
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb/r.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R/index
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb/l.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R/pinky
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L/lower leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R/lower leg.R
+        weight: 1
+      - path: rabbit_root/wrist IK.L
+        weight: 1
+      - path: rabbit_root/wrist IK.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rabbit_root|run
+      takeName: rabbit_root|run
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rabbit_mesh
+        weight: 1
+      - path: rabbit_root
+        weight: 1
+      - path: rabbit_root/ankle IK.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L/lower foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R/lower foot.R
+        weight: 1
+      - path: rabbit_root/elbow.L
+        weight: 1
+      - path: rabbit_root/elbow.R
+        weight: 1
+      - path: rabbit_root/knee.L
+        weight: 1
+      - path: rabbit_root/knee.R
+        weight: 1
+      - path: rabbit_root/stomach
+        weight: 1
+      - path: rabbit_root/stomach/chest
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L/ear top.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R/ear top.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L/index
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L/pinky
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb/r.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R/index
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb/l.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R/pinky
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L/lower leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R/lower leg.R
+        weight: 1
+      - path: rabbit_root/wrist IK.L
+        weight: 1
+      - path: rabbit_root/wrist IK.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rabbit_root|sprint
+      takeName: rabbit_root|sprint
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rabbit_mesh
+        weight: 1
+      - path: rabbit_root
+        weight: 1
+      - path: rabbit_root/ankle IK.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L/lower foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R/lower foot.R
+        weight: 1
+      - path: rabbit_root/elbow.L
+        weight: 1
+      - path: rabbit_root/elbow.R
+        weight: 1
+      - path: rabbit_root/knee.L
+        weight: 1
+      - path: rabbit_root/knee.R
+        weight: 1
+      - path: rabbit_root/stomach
+        weight: 1
+      - path: rabbit_root/stomach/chest
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L/ear top.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R/ear top.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L/index
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L/pinky
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb/r.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R/index
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb/l.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R/pinky
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L/lower leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R/lower leg.R
+        weight: 1
+      - path: rabbit_root/wrist IK.L
+        weight: 1
+      - path: rabbit_root/wrist IK.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rabbit_root|wall_jump
+      takeName: rabbit_root|wall_jump
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rabbit_mesh
+        weight: 1
+      - path: rabbit_root
+        weight: 1
+      - path: rabbit_root/ankle IK.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L/lower foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R/lower foot.R
+        weight: 1
+      - path: rabbit_root/elbow.L
+        weight: 1
+      - path: rabbit_root/elbow.R
+        weight: 1
+      - path: rabbit_root/knee.L
+        weight: 1
+      - path: rabbit_root/knee.R
+        weight: 1
+      - path: rabbit_root/stomach
+        weight: 1
+      - path: rabbit_root/stomach/chest
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L/ear top.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R/ear top.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L/index
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L/pinky
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb/r.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R/index
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb/l.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R/pinky
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L/lower leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R/lower leg.R
+        weight: 1
+      - path: rabbit_root/wrist IK.L
+        weight: 1
+      - path: rabbit_root/wrist IK.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rabbit_root|wall_slide
+      takeName: rabbit_root|wall_slide
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rabbit_mesh
+        weight: 1
+      - path: rabbit_root
+        weight: 1
+      - path: rabbit_root/ankle IK.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L/lower foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R/lower foot.R
+        weight: 1
+      - path: rabbit_root/elbow.L
+        weight: 1
+      - path: rabbit_root/elbow.R
+        weight: 1
+      - path: rabbit_root/knee.L
+        weight: 1
+      - path: rabbit_root/knee.R
+        weight: 1
+      - path: rabbit_root/stomach
+        weight: 1
+      - path: rabbit_root/stomach/chest
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L/ear top.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R/ear top.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L/index
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L/pinky
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb/r.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R/index
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb/l.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R/pinky
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L/lower leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R/lower leg.R
+        weight: 1
+      - path: rabbit_root/wrist IK.L
+        weight: 1
+      - path: rabbit_root/wrist IK.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rabbit_mesh|run
+      takeName: rabbit_mesh|run
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rabbit_mesh
+        weight: 1
+      - path: rabbit_root
+        weight: 1
+      - path: rabbit_root/ankle IK.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.L/upper foot.L/lower foot.L
+        weight: 1
+      - path: rabbit_root/ankle IK.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R
+        weight: 1
+      - path: rabbit_root/ankle IK.R/upper foot.R/lower foot.R
+        weight: 1
+      - path: rabbit_root/elbow.L
+        weight: 1
+      - path: rabbit_root/elbow.R
+        weight: 1
+      - path: rabbit_root/knee.L
+        weight: 1
+      - path: rabbit_root/knee.R
+        weight: 1
+      - path: rabbit_root/stomach
+        weight: 1
+      - path: rabbit_root/stomach/chest
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.L/ear mid.L/ear top.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/neck/head/ear base.R/ear mid.R/ear top.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/index finger.L/index
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/pinky finger.L/pinky
+          finger.L.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.L/lower arm.L/wrist.L/r.thumb/r.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/index finger.R/index
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/l.thumb/l.thumb.001
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R
+        weight: 1
+      - path: rabbit_root/stomach/chest/upper arm.R/lower arm.R/wrist.R/pinky finger.R/pinky
+          finger.R.001
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.L/lower leg.L
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R
+        weight: 1
+      - path: rabbit_root/stomach/upper leg.R/lower leg.R
+        weight: 1
+      - path: rabbit_root/wrist IK.L
+        weight: 1
+      - path: rabbit_root/wrist IK.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: b1482ccc34c1aff4abc1b3dccf37f08c
+timeCreated: 1478394003
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: foreleg_lower.l
+    100004: foreleg_lower.r
+    100006: forleg_upper.l
+    100008: forleg_upper.r
+    100010: head
+    100012: hind_foot_bottom.l
+    100014: hind_foot_bottom.r
+    100016: hind_foot_top.l
+    100018: hind_foot_top.r
+    100020: hind_leg.l
+    100022: hind_leg.r
+    100024: //RootNode
+    100026: rat_armature
+    100028: rat_mesh
+    100030: tail
+    100032: tail.001
+    100034: tail.002
+    100036: tail.003
+    100038: tail.004
+    400000: body
+    400002: foreleg_lower.l
+    400004: foreleg_lower.r
+    400006: forleg_upper.l
+    400008: forleg_upper.r
+    400010: head
+    400012: hind_foot_bottom.l
+    400014: hind_foot_bottom.r
+    400016: hind_foot_top.l
+    400018: hind_foot_top.r
+    400020: hind_leg.l
+    400022: hind_leg.r
+    400024: //RootNode
+    400026: rat_armature
+    400028: rat_mesh
+    400030: tail
+    400032: tail.001
+    400034: tail.002
+    400036: tail.003
+    400038: tail.004
+    4300000: rat_mesh
+    7400000: rat_armature|walk
+    9500000: //RootNode
+    13700000: rat_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: rat_armature|walk
+      takeName: rat_armature|walk
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rat_armature
+        weight: 1
+      - path: rat_armature/body
+        weight: 1
+      - path: rat_armature/body/forleg_upper.l
+        weight: 1
+      - path: rat_armature/body/forleg_upper.l/foreleg_lower.l
+        weight: 1
+      - path: rat_armature/body/forleg_upper.r
+        weight: 1
+      - path: rat_armature/body/forleg_upper.r/foreleg_lower.r
+        weight: 1
+      - path: rat_armature/body/head
+        weight: 1
+      - path: rat_armature/body/hind_leg.l
+        weight: 1
+      - path: rat_armature/body/hind_leg.l/hind_foot_top.l
+        weight: 1
+      - path: rat_armature/body/hind_leg.l/hind_foot_top.l/hind_foot_bottom.l
+        weight: 1
+      - path: rat_armature/body/hind_leg.r
+        weight: 1
+      - path: rat_armature/body/hind_leg.r/hind_foot_top.r
+        weight: 1
+      - path: rat_armature/body/hind_leg.r/hind_foot_top.r/hind_foot_bottom.r
+        weight: 1
+      - path: rat_armature/body/tail
+        weight: 1
+      - path: rat_armature/body/tail/tail.001
+        weight: 1
+      - path: rat_armature/body/tail/tail.001/tail.002
+        weight: 1
+      - path: rat_armature/body/tail/tail.001/tail.002/tail.003
+        weight: 1
+      - path: rat_armature/body/tail/tail.001/tail.002/tail.003/tail.004
+        weight: 1
+      - path: rat_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
